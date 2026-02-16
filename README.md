@@ -6,9 +6,9 @@ Proje; kullanıcı kayıt/giriş işlemleri, access + refresh token yönetimi, a
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
--  JWT Access Token + Refresh Token (HttpOnly cookie) 🔐
+-  JWT Access Token + Refresh Token (HttpOnly cookie) 
 -  Role-based authorization (USER / ADMIN)
 -  Flight CRUD (Admin yetkisi)
 -  Booking oluşturma (User yetkisi)
@@ -18,7 +18,7 @@ Proje; kullanıcı kayıt/giriş işlemleri, access + refresh token yönetimi, a
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Java 21
 - Spring Boot
@@ -30,7 +30,7 @@ Proje; kullanıcı kayıt/giriş işlemleri, access + refresh token yönetimi, a
 
 ---
 
-## ⚙️ Kurulum
+##  Kurulum
 
 ### 1️⃣ Gereksinimler
 - Java 21
